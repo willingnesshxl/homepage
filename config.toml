@@ -55,7 +55,7 @@ enableGitInfo = false
 
   # Your details.
   name = "He Xinlei"
-  role = "First-year graduate student"
+  role = "First-year master student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -67,7 +67,7 @@ enableGitInfo = false
   address = "Cailun Road 1159, Fudan University, China"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+86 18321717901"
-  skype = "xxx"
+  skype = "None"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
