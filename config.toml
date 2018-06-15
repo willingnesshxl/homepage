@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "hehehe.netlify.com/"
+baseurl = "/"
 
 # Title of your site
 title = "hehehe's Homepage"
@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "17210240099@fudan.edu.cn"
   address = "Cailun Road 1159, Fudan University, China"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+86 18321717901 lalala"
+  phone = "+86 18321717901"
   skype = "None"
   telegram = ""
 
